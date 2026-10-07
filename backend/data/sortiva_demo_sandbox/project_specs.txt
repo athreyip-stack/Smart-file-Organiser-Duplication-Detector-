@@ -1,0 +1,3 @@
+Sortiva Project Technical Specification
+Version 1.0
+High performance local file organization.
